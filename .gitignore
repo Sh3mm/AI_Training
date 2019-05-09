@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Intellij
+.idea/
 
-# Ada Library Information
-*.ali
+# python
+__pycache__/
